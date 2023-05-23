@@ -3,10 +3,10 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-admob-mediation-liftoff-jd" version="1.0.0">
 
-    <name>AdMob Mediation Adapter for Facebook Audience Network</name>
-    <description>AdMob Mediation Adapter for Facebook Audience Network</description>
+    <name>AdMob Mediation Adapter for liftoff </name>
+    <description>AdMob Mediation Adapter for liftoff </description>
     <author>Sylvain Bréjeon</author>
-    <keywords>admob,mediation,facebook</keywords>
+    <keywords>admob,mediation,liftoff</keywords>
     <license>MIT</license>
 
     <platform name="android">
