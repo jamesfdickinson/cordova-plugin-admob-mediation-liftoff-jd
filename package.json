@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-admob-mediation-liftoff-jd",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "AdMob Mediation Adapter for Liftoff Vungle",
     "cordova": {
         "id": "cordova-plugin-admob-mediation-liftoff-jd",
