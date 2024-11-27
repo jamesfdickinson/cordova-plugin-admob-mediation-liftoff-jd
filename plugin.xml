@@ -12,6 +12,7 @@
     <platform name="android">
         <preference name="GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_ANDROID" default="7.4.2.0" />
         <framework src="com.google.ads.mediation:vungle:$GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_ANDROID" />
+         <framework src="com.vungle:vungle-ads:7.4.2" />
     </platform>
     <platform name="ios">
         <!-- https://developers.google.com/admob/ios/mediation/liftoff-monetize -->
