@@ -10,7 +10,7 @@
     <license>MIT</license>
 
     <platform name="android">
-        <preference name="GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_ANDROID" default="6.12.1.1" />
+        <preference name="GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_ANDROID" default="7.4.2.0" />
         <framework src="com.google.ads.mediation:vungle:$GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_ANDROID" />
     </platform>
     <platform name="ios">
@@ -19,7 +19,7 @@
             let placements = ["PLACEMENT_ID_1", "PLACEMENT_ID_2"]
             extras.allPlacements = placements
             request.register(extras) -->
-        <preference name="GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_IOS" default="~> 7.0.0.0" />
+        <preference name="GOOGLE_ADS_MEDIATION_VUNGLE_VERSION_IOS" default="~> 7.4" />
 
         <podspec>
             <config>
